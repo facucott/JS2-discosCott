@@ -1,0 +1,3 @@
+Simulador interactivo: Tienda de CD'S
+
+El simuladoor interactivo que realicé trata de un pequeño algoritmo para calcular el ingreso y egreso (venta) de discos a una tienda de cd's. A futuro quisiera hacer algo similar con mi proyecto de curso, aunque más orientado a trabajar sobre una tienda virtual tipo "carrito" donde poder elegir y sumar productos (discos, remeras, objetos, etc), ya que la página que tengo armada es sobre mi banda (soy músico)... y contiene fechas, shows, novedades, material, redes, información, biografía y demás. La idea sería sumar una sección de ventas ligadas justamente al "merchandising" de la banda.
